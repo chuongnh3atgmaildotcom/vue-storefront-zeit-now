@@ -1,0 +1,7 @@
+{
+    "name": "vs-now-deploy",
+    "scripts": {
+        "now-build": "cd tw && yarn install && yarn now:installer",
+        "now-start": "echo 'now-build already started server daemon, this is just dummy start script'"
+    }
+}

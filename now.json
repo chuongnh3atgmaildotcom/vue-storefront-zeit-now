@@ -1,0 +1,13 @@
+{
+  "files": [
+    "tw/config/local.json",
+    "tw/package.json",
+    "tw/core/scripts/now-installer.js",
+    "vue-storefront-api/config/local.json",
+    "vue-storefront-api/var"
+  ],
+  "env": {
+    "QUESTIONS_DEFAULT_IS_REMOTE_BACKEND": "false",
+    "VUE_STOREFRONT_IMAGES_ENDPOINT": "http://twtools.tci-staging.com/pub/media"
+  }
+}
